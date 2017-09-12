@@ -2,25 +2,25 @@
    <html>
    <head>
       <title>Resume Alyssa Gable</title>
+      <link href="common.css" rel="StyleSheet" type="text/css"/>
    </head>
-   <body bgcolor="#9c0000">
-      <p> My First HTML Resume </p>
-      <br/><h1>My Resume</h1>
-      <br/><h2>Personal Details</h2>
-          <p> <b> <i>Alyssa Gable</i> </b> </p>
+   <body>
+      <h1> My Resume </h1>
+      <br/><h2> Personal Details </h2>
+          <p> <i> Alyssa Gable</i> </p>
           <p> 211 W Longleaf Drive, Auburn AL </p>
 
           <p> asg0026@auburn.edu </p>
           <a href = "alyssagable.me">Click on it</a>
 
 
-      <br/><h3>Education</h3>
-          <p> <b>Auburn University</b> </p>
+      <br/><h2> Education </h2>
+          <p>Auburn University </p>
           <p> Auburn, Alabama</p>
 
-	    <br/><h4>Projects</h4>
+	    <br/><h2> Projects </h2>
          <ul>
-           <li><h3> Project 1 </h3>
+           <li><h3> Project 1 </h3> ,.
            <p> <project 1 description> </p></li>
            <li><h3> Project 2 </h3>
            <p> <project 2 description> </p>
