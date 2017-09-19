@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+   <html>
+   <head>
+      <title>Resume Alyssa Gable</title>
+      <link href="Styles/common.css" rel="StyleSheet" type="text/css"/>
+   </head>
+   <div id="header" align="center"; >
+     <img src="Images/cool.png" alt="Cool Emoji" align="left" style="width:70px;height:70px;">
+     Alyssa Gable
+  </div>
+
+   <div id="body">
+       <body>
+          <h1> My Resume </h1>
+          <hr>
+          <div id="bio" style="text-align:left">
+            <a href="www.alyssagable.me">
+            <img src="Images/profilepic.jpg" alt="Profile Picture" style="width:350px;height:350px;">
+            </a>
+              <p>
+                My name is Alyssa Gable and I am from Montgomery, AL. I am currently a junior at Auburn University. I am in the Engineering Department and I am currently majoring in Computer Science.
+              </p>
+          </div>
+
+        <div id="info">
+          <br/><h2> Personal Details </h2>
+          <hr>
+              <p> <i> Alyssa Gable</i> </p>
+              <p> 211 W Longleaf Drive, Auburn AL </p>
+
+              <p> asg0026@auburn.edu </p>
+              <a href = "alyssagable.me">Click on it</a>
+
+          <br/><h2> Education </h2>
+          <hr>
+              <p>Auburn University </p>
+              <p> Auburn, Alabama</p>
+
+    	    <br/><h2> Projects </h2>
+          <hr>
+             <ul>
+               <li><h3> Project 1 </h3>
+               <p> A super awesome project </p></li>
+               <li><h3> Project 2 </h3>
+               <p> A not so super awesome project </p>
+               </li>
+             </ul>
+
+        </div>
+</div>
+<div id="footer">
+  <a href="www.alyssagable.me">
+  <img src="Images/twitter.png" alt="Twitter" style="width:50px;height:50px;">
+  </a>
+  <a href="www.instagram.com/alyssasgable">
+  <img src="Images/insta.png" alt="Instagram" style="width:50px;height:50px;">
+  </a>
+  <a href="www.github.com/alyssasgable">
+  <img src="Images/github.png" alt="Github" style="width:50px;height:50px;">
+  </a>
+</div>
+   </body>
+
+   </html>
