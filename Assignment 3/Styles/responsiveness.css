@@ -1,0 +1,55 @@
+/*8.1*/
+  @media (min-width:1680px) and (max-width: 1920px)
+{
+    body{width:100%;}
+    div{width:100%;}
+/*8.2*/
+  @media (min-width:1680px) and (max-width: 1601px)
+{
+    body{width:100%;}
+    div{width:100%;}
+/*8.3*/
+  @media (min-width:1600px) and (max-width: 1441px)
+{
+    body{width:100%;}
+    div{width:100%;}
+/*8.4*/
+  @media (min-width:1440px) and (max-width: 1337px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.5*/
+  @media (min-width:1336px) and (max-width: 1281px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.6*/
+  @media (min-width:1280px) and (max-width: 1153px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.7*/
+  @media (min-width:1152px) and (max-width: 1025px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.8*/
+  @media (min-width:1024px) and (max-width: 721px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.9*/
+  @media (min-width:720px) and (max-width: 481px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.10*/
+  @media (min-width:480px) and (max-width: 321px)
+  {
+    body{width:100%;}
+    div{width:100%;}
+/*8.11*/
+  @media (max-width: 320px)
+  {
+    body{width:100%;}
+    div{width:100%;}

@@ -1,0 +1,44 @@
+#body{
+  border-style: ridge;
+  width: 700px;
+}
+
+form {
+     display:inline-block;
+     margin-left: 20px;
+     width: 600px;
+
+}
+textarea {
+  text-align: right;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  width: 600px;
+}
+
+label {
+  display: inline-block;
+  text-align: left;
+}
+
+input {
+  display:inline-block;
+  text-align: right;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  width: 600px;
+}
+
+select {
+  text-align: right;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  width: 600px;
+}
+
+input[type=radio]{
+  float: right;
+  margin-left: 0px;
+  margin-bottom: 30px;
+  width: 450px;
+}

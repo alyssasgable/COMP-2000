@@ -3,6 +3,7 @@
    <head>
       <title>Resume Alyssa Gable</title>
       <link href="Styles/common.css" rel="StyleSheet" type="text/css"/>
+      <link href="Styles/responsiveness.css" rel="StyleSheet" type="text/css"/>
    </head>
    <div id="header" align="center"; >
      <img src="Images/cool.png" alt="Cool Emoji" align="left" style="width:70px;height:70px;">
